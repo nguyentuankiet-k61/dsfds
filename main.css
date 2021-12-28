@@ -105,6 +105,16 @@ body, html{height: 100%;}
 #letter30{animation: spin 3s infinite 1000ms linear, appear 2s;}
 #letter31{animation: spin 3s infinite 1100ms linear, appear 2s;}
 #letter32{animation: spin 3s infinite 1200ms linear, appear 2s;}
+#letter33{animation: spin 3s infinite 1300ms linear, appear 2s;}
+#letter34{animation: spin 3s infinite 1400ms linear, appear 2s;}
+#letter35{animation: spin 3s infinite 1500ms linear, appear 2s;}
+#letter36{animation: spin 3s infinite 1600ms linear, appear 2s;}
+#letter37{animation: spin 3s infinite 1700ms linear, appear 2s;}
+#letter38{animation: spin 3s infinite 1800ms linear, appear 2s;}
+#letter39{animation: spin 3s infinite 1900ms linear, appear 2s;}
+#letter40{animation: spin 3s infinite 2000ms linear, appear 2s;}
+#letter41{animation: spin 3s infinite 2100ms linear, appear 2s;}
+
 
 @keyframes appear{
   from{
